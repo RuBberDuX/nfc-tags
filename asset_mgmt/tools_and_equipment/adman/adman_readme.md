@@ -1,0 +1,3 @@
+adman
+
+contains adman records
